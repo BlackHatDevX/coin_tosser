@@ -15,6 +15,8 @@ A simple yet engaging coin toss app built using Flutter. The app features a smoo
 - 🔊 **Add Sound Effects**: Introduce sound effects to enrich the experience when tossing the coin.
 
 ## Screenshots 📸
+![Control-V2](https://github.com/user-attachments/assets/1bf87a11-db16-43f3-bde1-75419a0f411d)
+
 
 ## Getting Started 🚀
 
